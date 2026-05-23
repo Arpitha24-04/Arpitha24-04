@@ -1,3 +1,4 @@
+![](https://github.com/Arpitha24-04/Arpitha24-04/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm ARPITHA N</h1>
 <h3 align="center">A passionate python full stack developer from India</h3>
 
